@@ -17,8 +17,6 @@ The notebooks expect three CSV files in the root directory:
 - `nyt_mostpopular_daily.csv` — Daily snapshots from the NYT Most Popular API
 - `nyt_topstories_daily.csv` — Daily snapshots from the NYT Top Stories API
 
-> Data not included in this repo. See [NYT Developer Portal](https://developer.nytimes.com/) to obtain API access.
-
 ## Setup
 
 ```bash
