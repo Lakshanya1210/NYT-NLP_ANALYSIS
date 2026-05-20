@@ -16,6 +16,8 @@ The notebooks expect three CSV files in the root directory:
 - `nyt_mostpopular_daily.csv` — Daily snapshots from the NYT Most Popular API
 - `nyt_topstories_daily.csv` — Daily snapshots from the NYT Top Stories API
 
+> Data files are not included in this repository and are kept private.
+
 ## Setup
 
 ```bash
