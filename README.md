@@ -1,5 +1,4 @@
-# NYT-NLP_ANALYSIS
-# NYT Article Analysis: Topic Modeling & Semantic Similarity
+## NYT Article Analysis: Topic Modeling & Semantic Similarity
 
 Exploratory NLP project on New York Times article data using topic modeling (LDA/NMF) and multi-model semantic similarity comparisons.
 
